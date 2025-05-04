@@ -46,7 +46,7 @@ Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) file 
 
 ## Code of Conduct
 
-Please read the [CODE OF CONDUCT](CODE-OF-CONDUCT.md) file for more information on our code of conduct.
+Please read the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) file for more information on our code of conduct.
 
 ## Documentation
 
